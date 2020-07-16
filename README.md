@@ -1,6 +1,5 @@
 # Ứng dụng từ bài: Fragments trong Android
 
-
 Một số bài khác:
 ***
 <a href="https://github.com/tiendatmagic/helloworldandroid">Làm quen môi trường Android</a>
@@ -23,9 +22,9 @@ Một số bài khác:
 
 <a href="https://github.com/tiendatmagic/ExplicitIntent">Đối tượng Intent trong Android Phần 1</a>
 	
-<a href="https://github.com/tiendatmagic/ImplicitIntent">Đối tượng Intent trong Android Phần 1</a>
+<a href="https://github.com/tiendatmagic/ImplicitIntent">Đối tượng Intent trong Android Phần 2</a>
 	
-<a href="https://github.com/tiendatmagic/SendBroadcast">Đối tượng Intent trong Android Phần 1</a>
+<a href="https://github.com/tiendatmagic/SendBroadcast">Đối tượng Intent trong Android Phần 3</a>
 
 <a href="https://github.com/tiendatmagic/SQLiteDemoApplication">Lập trình cơ sở dữ liệu Android với SQLite</a>
 
