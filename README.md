@@ -1,4 +1,4 @@
-# Ứng dụng từ bài: Fragments trong Android
+# Ứng dụng từ bài: <a href="https://ngocminhtran.com/2018/10/17/fragments-trong-android/">Fragments trong Android</a>
 
 Một số bài khác:
 ***
